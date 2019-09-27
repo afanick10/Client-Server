@@ -1,5 +1,3 @@
-// Aaron Fanick - 103824121
-// Assignment 5 - March 29, 2018
 #include <fcntl.h>
 #include <unistd.h>
 #include <signal.h>
